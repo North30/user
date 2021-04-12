@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T09:21:40.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="X-CRZrxA_Wgbz5b0h6Xb" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T09:22:44.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="r1DJ_Y5n7pziKhpYM2gq" version="14.5.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,6 +52,9 @@
         </mxCell>
         <mxCell id="HuOVsy4ymgKd3fWbFy4V-8" value="微信会备份上传的图片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="290" y="320" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3N-8VGgFmn6ATbo2nO7-0" value="前端判断是否是微信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="190" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
